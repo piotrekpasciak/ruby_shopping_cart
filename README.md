@@ -1,7 +1,7 @@
 # ruby_shopping_cart
 
-Project prequesties:
-- Ruby 2.5.5
+Project prerequisites:
+- Ruby 2.5.5 or higher
 - rspec gem installed
 
 Project can be run with following bash command:
