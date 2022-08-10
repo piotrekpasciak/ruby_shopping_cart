@@ -22,4 +22,4 @@ product_codes.each do |product_code|
   co.scan(product_code)
 end
 
-puts "Total price expected: £#{'%.2f' % co.total}"
+puts "Total price expected is: £#{'%.2f' % co.total}"
